@@ -1,0 +1,6 @@
+{
+  "name": "Secure Dialer",
+  "description": "A secure, encrypted dialer app with automatic call recording, noise cancellation simulation, voice to notes, text to voice, and cloud backup capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
